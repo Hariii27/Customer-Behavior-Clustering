@@ -116,4 +116,4 @@ The dataset includes the following features:
 ## 🙌 Author
 
 Hari Narayanan K
-CSE Student | Aspiring ML & Cloud Engineer
+CSE Student | Aspiring AI & ML Engineer
